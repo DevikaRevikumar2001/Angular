@@ -1,0 +1,64 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 1,
+      "comment": "This is fresh apple",
+      "date": "2024-11-03T18:30:00.000Z",
+      "id": "4083"
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 2.5,
+      "comment": "This is not fresh mango",
+      "date": "2024-11-04T18:30:00.000Z",
+      "id": "3990"
+    },
+    {
+      "productName": "Cabbage",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 0.5,
+      "comment": "This is fresh cabbage",
+      "date": "2024-10-31T18:30:00.000Z",
+      "id": "0667"
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 3,
+      "comment": "This is not fresh banana",
+      "date": "2024-11-17T18:30:00.000Z",
+      "id": "1169"
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 4,
+      "comment": "This is not  fresh orange",
+      "date": "2024-10-31T18:30:00.000Z",
+      "id": "8bb2"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
